@@ -10,5 +10,5 @@ ReactJS / ReactNative / NodeJS & HTML / CSS / JAVASCRIPT
     <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="60" height="60"/> </a>
     <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="60" height="60"/> </a>
   </div>
-
-- 🔭 I’m currently working on this page. 
+  
+  
