@@ -2,7 +2,7 @@
 #### I am Web/Mobile Developer 
 
 Skills : 
-ReactJS / ReactNative / NodeJS & HTML / CSS / JAVASCRIPT
+ReactJS / ReactNative / NodeJS & HTML / CSS / JAVASCRIPT / SQL - NoSQL
 
 <div>
   <p align="center">
