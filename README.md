@@ -2,7 +2,7 @@
 #### I am Web/Mobile Developer 
 
 Skills : 
-ReactJS / ReactNative / NodeJS & HTML / CSS / JAVASCRIPT / MySQL - NoSQL(MongoDB)
+ReactJS / ReactNative / NodeJS(ExpressJs) & HTML / CSS / JAVASCRIPT / MySQL - NoSQL(MongoDB) / Python
 
 <div>
   <p align="center">
