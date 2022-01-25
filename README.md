@@ -2,8 +2,8 @@
 #### I am Web/Mobile Developer and Robotic Process Automation Engineer
 
 Skills : 
-ReactJS / ReactNative / NodeJS(ExpressJs) & HTML / CSS / JAVASCRIPT / MySQL - NoSQL(MongoDB) / Python
-Kuka(KRL) / Siemens PLC (Tia Portal)
+##### ReactJS / ReactNative / NodeJS(ExpressJs) & HTML / CSS / JAVASCRIPT / MySQL - NoSQL(MongoDB) / Python
+##### Kuka(KRL) / Siemens PLC (Tia Portal)
 
 <div>
   <p align="center">
