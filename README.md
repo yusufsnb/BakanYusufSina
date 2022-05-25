@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yusuf Sina
-#### I am Web/Mobile Developer and Robotic Process Automation Engineer
+#### I am Web/Mobile Developer
 
 Skills : 
 ##### ReactJS / ReactNative / NodeJS(ExpressJs) & HTML / CSS / JAVASCRIPT / MySQL - NoSQL(MongoDB) / Python
